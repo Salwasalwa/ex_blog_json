@@ -1,3 +1,24 @@
-h2 {
-    text-transform: capitalize;
+body {
+    h1 {
+        text-align: center;
+        color: rgb(246, 96, 22);
+        font-size: 5em;
+    }
+    .panel-title {
+        background-color: rgb(217, 77, 25);
+        min-height: 4em;
+        padding: 1em 1em;
+        font-size: 1em;
+        text-align: center;
+        h2 {
+            text-transform: capitalize;
+            padding-bottom: 1em;
+
+        }
+
+    }
+    .media {
+        padding: 1em;
+
+    }
 }

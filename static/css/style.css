@@ -1,4 +1,17 @@
-h2 {
-  text-transform: capitalize; }
+body h1 {
+  text-align: center;
+  color: #f66016;
+  font-size: 5em; }
+body .panel-title {
+  background-color: #d94d19;
+  min-height: 4em;
+  padding: 1em 1em;
+  font-size: 1em;
+  text-align: center; }
+  body .panel-title h2 {
+    text-transform: capitalize;
+    padding-bottom: 1em; }
+body .media {
+  padding: 1em; }
 
 /*# sourceMappingURL=style.css.map */
